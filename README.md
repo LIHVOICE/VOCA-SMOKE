@@ -12,15 +12,15 @@ for smoking status prediction while taking into consideration gender and the spo
 VOCA-SMOKE/
 │
 ├──  data/ # Data file
-
+│
 ├──  embeddings/ # Extracted features from audio recordings
-
+│
 │  ├──  for model training/
-
+│
 │  └──  for significant features analysis/
-
+│
 ├──  notebooks/ # Jupyter notebooks with code and results
-
+│
 ├──  utils/ # Utility Python scripts
-
+│
 └──  README.md # Project README file
